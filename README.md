@@ -1,4 +1,0 @@
-prac
-====
-
-Practice repo
